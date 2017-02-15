@@ -23,6 +23,10 @@ Build Library
 1. Windows: Run `build_win64.py` (Visual Studio 2015 and [CMake][] is required)
 1. Linux: Run `build_linux.py` ([clang][] and Unrea Engine Source Code is required)
 
+Blog
+-----
+There is a [blog](http://thecodeway.com/blog/?p=1394) about this library(chinese)
+
 Reference
 -----
 1. https://github.com/code4game/libprotobuf
